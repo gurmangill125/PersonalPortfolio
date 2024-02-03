@@ -24,6 +24,13 @@ const projects = [
     image: 'https://raw.githubusercontent.com/gurmangill125/PlatterPedia/main/data/resources/splashscreen.gif',
     link: 'https://github.com/gurmangill125/PlatterPedia',
   },
+  {
+    title: 'Personal Website',  
+    description: 'My personal website to display my portfolio of projects, some information about me, my skills, and contact form.',
+    category: 'Built using React and Tailwind',
+    image: 'https://i.imgur.com/c53oalR.png',
+    link: 'https://github.com/gurmangill125/PersonalPortfolio',
+  },
 ];
 
 
